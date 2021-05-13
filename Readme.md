@@ -1,7 +1,7 @@
 # ContribNet
 This code implements an encoder-decoder model called **ContribNet** for detecting the attribute-object composition or attribute-object pair e.g. diced cheese, engraved coin etc. in  the given image.
 
-#![contribnet](https://user-images.githubusercontent.com/63097128/97393718-2d479c80-1909-11eb-8b25-a40ec919d6ee.png)
+<!---![contribnet](https://user-images.githubusercontent.com/63097128/97393718-2d479c80-1909-11eb-8b25-a40ec919d6ee.png) --->
 
 The codebase has implementations of four different models:
 1. contribnet
