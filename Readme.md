@@ -52,7 +52,6 @@ The repository:
 @misc{github-contribnet-patil,
 title = {ContribNet Codebase in PyTorch},
 author = {Patil, Charulata},
-year = {2020},
 note = {\url{https://github.com/cjpatil/contribnet}},
 }
 ```
